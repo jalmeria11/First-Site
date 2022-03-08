@@ -8,9 +8,9 @@
 </h1>
   
   <h2>Lifestyle Portrait Photographer</h2>
-
+<section>
     <p> Caputirng moments in time while they happen. Located in the Bay Area, California. </p>
-   
+  </section>
    
    <section>
 
