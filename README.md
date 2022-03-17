@@ -16,16 +16,16 @@
 <p>
 
 <h2>Family Portraits</h2>
-<a href="https://github.com/jalmeria11/First-Site/blob/main/FamilyPortraits.html">Family Portraits Page</a>
+<a href="https://jalmeria11.github.io/First-Site/FamilyPortraits.html">Family Portraits Page</a>
 
 
 <h2>Graduates</h2>
-<a href="https://github.com/jalmeria11/First-Site/blob/main/graduates.html">Graduates Page</a>
+<a href="https://jalmeria11.github.io/First-Site//graduates.html">Graduates Page</a>
 
 
 
 <h2>Landscapes</h2>
-<a href="https://github.com/jalmeria11/First-Site/blob/main/landscapes.html">Landscapes Page</a>
+<a href="https://jalmeria11.github.io/First-Site//landscapes.html">Landscapes Page</a>
 
 
 
